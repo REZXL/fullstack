@@ -1,0 +1,37 @@
+a{
+    background-color: brown;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+#inp1{
+    color: aliceblue;
+    background-color: brown;
+}
+
+#inp2{
+    background-color: aqua;
+    color: aliceblue;
+    font-size: larger;
+}
+
+#inp3{
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#inp4{
+    background-color: blueviolet;
+    color: aliceblue;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.group1{
+    color: aliceblue;
+    background-color: burlywood;
+    border: 4px solid black;
+    margin: 5% 30% 5% 30%;
+    padding: 10px 30px 10px 30px;
+}
